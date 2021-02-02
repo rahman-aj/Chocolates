@@ -3,6 +3,5 @@ iOS Application using RxSwift and RxCocoa, I was just following a tutorial when 
 
 
 To run the project:
-1) install the required pods using: pod install 
-2) open project using the .xcworkspace file
-3) Run the project on simulator of your choice 
+1) open project using the .xcworkspace file
+2) Run the project on simulator of your choice 
